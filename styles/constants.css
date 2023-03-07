@@ -1,0 +1,21 @@
+:root {
+    --clr-secondary-200: #ffffff;
+    --clr-secondary-400: #e6ceeb;
+    --clr-secondary-900: #a74fbb;
+
+    --clr-primary-200: #4f498d;
+    --clr-primary-400: #20215f;
+    --clr-primary-900: #000035;
+
+    --clr-neutral-400: #e9e9e9;
+    --clr-neutral-200: #f0f0f0;
+
+    --clr-text-on-primary: #fff;
+    --clr-text-on-secondary: #000;
+    --clr-text-neutral: #616161;
+
+    --text-regular-400: 1rem;
+    --text-regular-600: 1.5rem;
+    --text-regular-900: 1.8rem;
+
+}
